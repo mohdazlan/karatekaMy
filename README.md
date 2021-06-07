@@ -1,3 +1,24 @@
+##CONFGIURATION FOR BUILD
+ mohdazlanabaziz@Mohds-MBP  ~/Documents/Web Development 2021/Karateka   main ● ls /Library/Java/JavaVirtualMachines//
+
+jdk-14.jdk       jdk1.8.0_271.jdk
+
+Only use jdk1.8!!!
+
+ mohdazlanabaziz@Mohds-MBP  ~/Documents/Web Development 2021/Karateka   main ●  cordova requirements
+
+Requirements check results for android:
+Java JDK: installed 1.8.0
+Android SDK: installed true
+Android target: installed android-30,android-29,android-28
+Gradle: installed /usr/local/Cellar/gradle/6.7/bin/gradle
+
+Requirements check results for ios:
+Apple macOS: installed darwin
+Xcode: installed 12.4
+ios-deploy: installed 1.11.3
+CocoaPods: installed 1.9.1
+
 # karatekaMy
 1st step ✘ mohdazlanabaziz@Mohds-MBP  ~/Documents/Web Development 2021/cordova create Karateka my.edu.pmu.Karate KaratekaMy
 2ns step  ✘ mohdazlanabaziz@Mohds-MBP  ~/Documents/Web Development 2021/Karateka  cordova platform add android
